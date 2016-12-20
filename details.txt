@@ -1,0 +1,24 @@
+/*= Cpanel
+https://securem39.sgcpanel.com:2083/
+squirete / !Mew8}J&!KLC
+
+/*= WordPress
+http://www.squiretechsolutions.com/wp-admin
+Squiretech / !Mew8}J&!KLC
+
+http://www.squiretechsolutions.com/manage
+Username: Squiretech
+Password: !Mew8}J&!KLC
+
+/*= FTP
+FTP host- ftp.squireTechsolutions.com
+FTP user- squirete
+FTP password- !Mew8}J&!KLC
+
+Host: websitedev@squiretechsolutions.com
+Username: websitedev@squiretechsolutions.com
+Password: QCWRmQ;i%f$I
+
+/*= Youtube (for videos to be added and used from there) 
+Username: Marketing@squiretechsolutions.com
+Password: STS12345
